@@ -9,6 +9,9 @@ If the score < 0, return 0.
 For example:
 
 checkExam(["a", "a", "b", "b"], ["a", "c", "b", "d"]) → 6
+
 checkExam(["a", "a", "c", "b"], ["a", "a", "b",  ""]) → 7
+
 checkExam(["a", "a", "b", "c"], ["a", "a", "b", "c"]) → 16
+
 checkExam(["b", "c", "b", "a"], ["",  "a", "a", "c"]) → 0
