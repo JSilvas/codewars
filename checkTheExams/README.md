@@ -1,4 +1,5 @@
 **Code 00 - Check the exam**
+
 https://www.codewars.com/kata/check-the-exam
 
 The first input array contains the correct answers to an exam, like ["a", "a", "b", "d"]. The second one is "answers" array and contains student's answers.
