@@ -1,0 +1,1 @@
+const double = array => array.map(arr => arr * 2);
